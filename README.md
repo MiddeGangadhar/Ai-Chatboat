@@ -10,4 +10,4 @@ Why share this? To show off my web design skills and inspire others. If you're i
 
 Questions? Hit me up in the issues. Let's keep the conversation going!
 
-    Built by [Your Name] with love and code. 🤖
+    Built by Gangadhar with love and code. 🤖
